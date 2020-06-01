@@ -1,0 +1,2 @@
+Error:
+E2: Some states are disjoint
